@@ -6,6 +6,7 @@
 	"version": "1.0.3",
 	"modType": "Town", 
 	"depends" : [ "hota.cove", "hota.interference" ],
+	"conflicts" : [ "an-expansion.skills.warfare" ],
 	"compatibility": {
 		"min": "1.6.0"
 	},
